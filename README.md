@@ -89,7 +89,7 @@ Skills: Java / BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Walid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=walid573&custom_title=harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Walid's Graph](https://github-readme-activity-graph.vercel.app/graph?username=walid573&custom_title=Walid's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
