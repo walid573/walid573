@@ -8,7 +8,12 @@
 
 <br/>
 
-<h1 align="center">Hi 👋, I'm Mohammad Walid</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=5000&pause=1500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Walid"
+    alt="Typing SVG"
+  />
+</p>
 
 <h3 align="center">
   Aspiring Full-Stack Web Developer | Building, Learning & Growing 🚀
@@ -65,9 +70,9 @@ A modern book discovery and management application built with Next.js and TypeSc
 
 **Tech Stack:** Next.js · TypeScript · React · Tailwind CSS
 
-🔗 **GitHub:** [Repository](YOUR_BOOK_VIBE_REPO)
+🔗 **GitHub:** [Repository](https://github.com/walid573/Book-vibe)
 
-🌐 **Live:** [Live Demo](YOUR_BOOK_VIBE_LIVE_LINK)
+🌐 **Live:** [Live Demo](https://book-vibe-cyan-chi.vercel.app/)
 
 ---
 
@@ -77,7 +82,7 @@ A web application that allows users to explore technologies and build their own 
 
 **Tech Stack:** React · TypeScript · Tailwind CSS
 
-🔗 **GitHub:** [Repository](YOUR_DEV_STACK_REPO)
+🔗 **GitHub:** [Repository](https://github.com/walid573/Assignment-05)
 
 🌐 **Live:** [Live Demo](https://dev-stack-project1.netlify.app/)
 
