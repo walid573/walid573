@@ -87,18 +87,9 @@ A web application that allows users to explore technologies and build their own 
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walid573&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid573&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walid573&theme=tokyonight" />
-</p>
-
+![](https://github-readme-stats.shion.dev/api?username=walid573&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=walid573&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=walid573&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 🤝 Connect With Me
