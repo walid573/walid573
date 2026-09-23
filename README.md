@@ -1,3 +1,13 @@
+<p align="center">
+  <img 
+    src="./assets/github-banner.png" 
+    alt="Mohammad Walid - Web Developer"
+    width="100%"
+  />
+</p>
+
+<br/>
+
 <h1 align="center">Hi 👋, I'm Mohammad Walid</h1>
 
 <h3 align="center">
@@ -86,11 +96,12 @@ A web application that allows users to explore technologies and build their own 
 ---
 
 ## 📊 GitHub Statistics
-
+<div align="center">
 ![](https://github-readme-stats.shion.dev/api?username=walid573&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=walid573&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=walid573&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ---
+<div/>
 
 ## 🤝 Connect With Me
 
