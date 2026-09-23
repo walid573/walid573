@@ -1,27 +1,130 @@
 <h1 align="center">Hi 👋, I'm Mohammad Walid</h1>
-<h3 align="center">I'm a passionate web development learner focused on building modern, responsive and user-friendly web applications.I'm currently improving my skills in frontend and backend development by building real-world projects and learning new technologies.</h3>
 
-- 👯 I’m looking to collaborate on web development projects **Web Projects**
+<h3 align="center">
+  Aspiring Full-Stack Web Developer | Building, Learning & Growing 🚀
+</h3>
 
-- 🤝 I’m looking for help with backend development and best practices **Node.js & Express.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/walid573](https://github.com/walid573)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, React & Next.js**
-
-- 📫 How to reach me **mdwalid19833@gmail.com**
-
-- ⚡ Fun fact **I learn by building real-world projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  I'm a passionate web development learner focused on building modern,
+  responsive, and user-friendly web applications.
+  I enjoy learning by building real-world projects and continuously
+  improving my development skills.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walid573&show_icons=true&locale=en&layout=compact" alt="walid573" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walid573&show_icons=true&locale=en" alt="walid573" /></p>
+- 🔭 I'm currently working on **full-stack web development projects**
+- 🌱 I'm currently learning **Node.js, Express.js, MongoDB & backend development**
+- 🤝 I'm looking to collaborate on **web development and open-source projects**
+- 🆘 I'm looking for help with **backend development and best practices**
+- 💬 Ask me about **HTML, CSS, JavaScript, React & Next.js**
+- 📚 I enjoy learning new technologies by building real-world projects
+- ⚡ Fun fact: **I learn best by building things and solving problems**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walid573&" alt="walid573" /></p>
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Book Vibe
+
+A modern book discovery and management application built with Next.js and TypeScript.
+
+**Tech Stack:** Next.js · TypeScript · React · Tailwind CSS
+
+🔗 **GitHub:** [Repository](YOUR_BOOK_VIBE_REPO)
+
+🌐 **Live:** [Live Demo](YOUR_BOOK_VIBE_LIVE_LINK)
+
+---
+
+### 🧩 Dev Stack Builder
+
+A web application that allows users to explore technologies and build their own development stack.
+
+**Tech Stack:** React · TypeScript · Tailwind CSS
+
+🔗 **GitHub:** [Repository](YOUR_DEV_STACK_REPO)
+
+🌐 **Live:** [Live Demo](https://dev-stack-project1.netlify.app/)
+
+---
+
+## 📚 Currently Learning
+
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- Authentication
+- Backend Development
+- Full-Stack Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=walid573&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Mohammad Walid's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid573&layout=compact&hide_border=true"
+    alt="Mohammad Walid's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=walid573&hide_border=true"
+    alt="Mohammad Walid's GitHub Streak"
+  />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:mdwalid19833@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/walid573">
+    <img src="https://img.shields.io/badge/GitHub-walid573-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 Learning. Building. Improving. One project at a time.</i>
+</p>
+ 
