@@ -147,6 +147,10 @@ A workout library and planning application to discover exercises, build a daily 
 ## 🤝 Connect With Me
 
 <p align="left">
+  <a href="https://mohammadwalid.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
   <a href="mailto:mdwalid19833@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
