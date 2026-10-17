@@ -88,6 +88,42 @@ A web application that allows users to explore technologies and build their own 
 
 ---
 
+### 📰 The News Room
+
+A modern Bengali news website with a lead story, topic sections, a most-read sidebar, and a dedicated article page for each story.
+
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS
+
+🔗 **GitHub:** [Repository](https://github.com/walid573/The-News-Room)
+
+🌐 **Live:** [Live Demo](https://news-room-orcin.vercel.app/)
+
+---
+
+### 🛒 Bazar-Dor
+
+A Bengali product price comparison website that helps users explore everyday products, compare prices, and find useful market price information.
+
+**Tech Stack:** Next.js · TypeScript · Tailwind CSS · MongoDB · Better Auth
+
+🔗 **GitHub:** [Repository](https://github.com/walid573/Bazar-Dor)
+
+🌐 **Live:** [Live Demo](https://bazar-dor-z.vercel.app/)
+
+---
+
+### 🏋️ FitLog
+
+A workout library and planning application to discover exercises, build a daily workout plan, save favorites, and track workout minutes and calories.
+
+**Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
+
+🔗 **GitHub:** [Repository](https://github.com/walid573/fit-log)
+
+🌐 **Live:** [Live Demo](https://fit-log-jade.vercel.app/)
+
+---
+
 ## 📚 Currently Learning
 
 - Node.js
